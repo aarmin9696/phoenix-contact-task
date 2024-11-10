@@ -2,7 +2,7 @@
 
 This is a simple user management frontend for an IIoT platform built using React. It fetches user data from a backend API, displays the user list, and allows for viewing and editing user details.
 
-## Deployed Link - 
+## Deployed Link - https://phoenix-contact-task.vercel.app/
 
 ## Features
 
@@ -20,8 +20,8 @@ This is a simple user management frontend for an IIoT platform built using React
 1. Clone the repository:
 
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/aarmin9696/phoenix-contact-task.git
+   cd phoenix-contact-task
 
 2. Install dependencies:
 
